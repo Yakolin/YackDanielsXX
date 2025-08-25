@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YackDanielsXX
+- 👋 Hi, I’m @Yakolin
 - 👀 I’m interested in robotics, video game design, microprocessors, and graphics engines.
 - 🌱 I’m currently learning at the Faculty of Engineering, University of Buenos Aires (FIUBA).
 - 💞️ I’m looking to collaborate on robotics projects, video game development, and microprocessor-related work.
