@@ -43,7 +43,7 @@
  </p>
  
 <h2>
-<a> <img align='right' src='https://media.tenor.com/wIOg3Dv86qEAAAAi/rain-world-saint.gif' width='300'></a></h2>
+<a> <img align='left' src='https://media.tenor.com/wIOg3Dv86qEAAAAi/rain-world-saint.gif' width='300'></a></h2>
 <p>
 Last Edited on: 25/8/2025
 </p>
